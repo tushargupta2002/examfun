@@ -1,0 +1,43 @@
+<doctype html>
+<html>
+<Head> <title> TUSHAR GUPTA </title> </head>
+<body  bgcolor=black text=white> 
+<marquee> 
+<h1><pre>  welcome    (pretag)                                                to my website </h1> 
+<P> <h4 align="right"> <font> <del> Thanking you ........</del> </font></h4> </P>
+<image src=  https://cdn.shopify.com/s/files/1/0151/0741/products/fa273d517b0f26647744e45b693e56ef_large.jpeg?v=1578638452 >
+<a href="https://www.appbrewery.co/p/web-development-course-resources/"> visit google </a>
+<h3> list tag </h3>
+<ul>
+<li> east or west </li>
+<li> aruna mam is best </li>
+</ul>
+<ol>
+<li> east or west  </li>
+<LI> ARUNA MAM IS BEST </LI>
+</OL>
+<table border=3>
+<caption> Practical marks </caption>
+<tr>
+<th>Name </th>
+<th> Marks </th>
+<th> Remarks </th>
+</tr>
+<tr>
+<td> Tushar</td>
+<td> 95</td>
+<td> Very Good </td>
+</tr>
+<tr>
+
+<td>Rohit</td>
+<td> 50 </td>
+<td> Need Improvement (jokes kam share kare) </td>
+</tr>
+</table>
+<br>
+<hr>
+<hr>
+</pre>
+</body>
+</html>
